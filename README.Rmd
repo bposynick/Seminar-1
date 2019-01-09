@@ -1,7 +1,0 @@
----
-title: "README"
-author: "Bronwyn"
-date: '2019-01-09'
-output: html_document
----
-This is a line from R studio. This change was made directly on GitHub.
